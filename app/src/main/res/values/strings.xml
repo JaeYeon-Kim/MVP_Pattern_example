@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVP_Pattern_example</string>
+    <string name="edit_name">name</string>
+    <string name="edit_email">email</string>
+    <string name="btn_text_save">SAVE</string>
+    <string name="btn_save_text">SAVE</string>
+    <string name="output_name">JaeYounKim</string>
+    <string name="output_email">rlawodusx@naver.com</string>
+</resources>
